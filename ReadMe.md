@@ -1,4 +1,4 @@
-# webpack4.0搭建React环境
+# webpack4.0介绍以及搭建React环境
 ### 1.创建一个新目录
  ```
  npm init -y   //初始化
@@ -94,7 +94,7 @@ window.iAmJavascriptES6 = iAmJavascriptES6;
 + 安装React
 ```
 yarn add react react-dom --save-dev
-
+```
 + 接下来添加 babel-preset-react:
 ```
 yarn add babel-preset-react --save-dev
